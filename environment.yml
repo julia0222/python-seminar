@@ -1,0 +1,22 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - scipy
+  - numpy
+  - pandas
+  - numexpr
+  - bokeh
+  - datashader
+  - seaborn
+  - pillow
+  - ipywidgets
+  - altair
+  - plotly
+  - bqplot
+  - pip:
+    - sphinx-gallery
+    - pdvega
+    - vega3
+
